@@ -1,14 +1,12 @@
 # Suphakrit
 
-สวัสดีครับ ผมชื่อ สุภกฤต (Suphakrit)
+สวัสดีครับ ผมชื่อ ศุภกฤต (Suphakrit)
 
 กำลังศึกษาและฝึกฝนการเขียนโปรแกรม สนใจด้านเทคโนโลยีและการพัฒนาโปรแกรมต่าง ๆ โดยใช้ GitHub เป็นพื้นที่เก็บผลงานและเรียนรู้สิ่งใหม่ ๆ
 
 ## Skills
-- Python
-- HTML
-- CSS
-- Git & GitHub
+- เล่นเกมโหด
+- กีฬาเทพ
 
 ## Contact
-- GitHub: Suphakrit
+- IG fggchtcgdytdtse
